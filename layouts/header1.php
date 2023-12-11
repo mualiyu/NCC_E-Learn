@@ -45,7 +45,7 @@
 										<span></span>
 									</span>
 								</a>
-								<a href="index.html" class="navbar-brand logo">
+								<a href="index.php" class="navbar-brand logo">
 									<img src="assets/img/logo/NCC_LOGO.jpg" style="width: auto; height:60px;" class="img-fluid" alt="Logo">
 								</a>
 							</div>

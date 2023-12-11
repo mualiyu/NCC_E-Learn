@@ -29,7 +29,7 @@
 			
 			<div class="error-box" style="color: #014479;">
 				<div class="error-logo">
-					<a href="index.html">
+					<a href="index.php">
 						<img src="assets/img/logo/NCC_LOGO.jpg" class="img-fluid" alt="Logo">
 					</a>
 				</div>

@@ -95,7 +95,7 @@
 							<div class="row align-items-center">
 								<div class="col-md-4">
 									<div class="footer-logo-five">
-										<a href="index.html">
+										<a href="index.php">
 											<img src="assets/img/logo/NCC_LOGO.jpg" style="width: auto; height:80px;" class="img-fluid" alt="Footer Logo">
 										</a>
 										
