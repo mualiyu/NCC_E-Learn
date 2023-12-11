@@ -133,7 +133,7 @@
 										</div>
 									</div>
 									<div class="course-info-five">
-										<a href="course.php?c=videol">
+										<a href="course.php?c=video">
 											<h3>Video</h3>
 											<p>50+ Contents</p>
 										</a>										
@@ -152,19 +152,19 @@
 								<div class="course-five-grid">
 									<div class="course-icon-five">
 										<div class="icon-five-border">
-											<a href="/course.php?c=audio">
+											<a href="course.php?c=audio">
 												<img src="assets/img/audio.png" style="width: auto; height:70px;" alt="">
 											</a>
 										</div>
 									</div>
 									<div class="course-info-five">
-										<a href="/course.php?c=audio">
+										<a href="course.php?c=audio">
 											<h3>Audio Books</h3>
 											<p>50+ Contents</p>
 										</a>										
 									</div>
 									<div class="course-info-btn">
-										<a href="/course.php?c=audio" class="btn-five"><i class="fas fa-chevron-right"></i></a>
+										<a href="course.php?c=audio" class="btn-five"><i class="fas fa-chevron-right"></i></a>
 									</div>
 								</div>
 							</div>
@@ -254,7 +254,7 @@
 											<img src="assets/img/skills/skills-01.svg" class="bg-warning" alt="Stay motivated">
 										</div>
 										<div class="skill-five-content">
-											<h3>Stay motivated with engaging instructors</h3>
+											<a href="https://www.khanacademy.org/"><h3>Stay motivated with engaging instructors</h3></a>
 											<p>eLearning learners report our hands-on content directly helped their careers.</p>
 										</div>
 									</div>
