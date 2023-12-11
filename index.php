@@ -185,7 +185,7 @@
 									</div>
 									<div class="course-info-five">
 										<a href="ebooks.php">
-											<h3>E-Bookss</h3>
+											<h3>E-Books</h3>
 											<p>50+ Contents</p>
 										</a>										
 									</div>
