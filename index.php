@@ -31,7 +31,7 @@
 												</span>	
 												<input type="text" class="form-control" name="s" placeholder="Search Courses, Online eductional centers, etc">
 												
-												<button class="btn btn-primary sub-btn" type="submit"><span><i class="fa-solid fa-magnifying-glass"></i></span></button>
+												<button class="btn btn-primary sub-btn" type="submit"><span><i class="fa-solid fa-arrow-right"></i></span></button>
 												
 											</div>
 										</div>
@@ -41,17 +41,18 @@
 
 							</div>
 						</div>
-						<div class="col-lg-6 col-12">
+						<div class="col-lg-6 col-12 mt-0 " style="top: 10px;">
 							<div class="banner-slider-img">								
 								<div class="row">
-									<div class="col-lg-6 align-self-end">
-										<div class="slider-five-one" data-aos="fade-down">
-											<img src="assets/img/slider/slider-01.png" alt="">
+									<div class="col-lg-6">
+										<div class="slider-five-one m-0 mb-5" data-aos="fade-down">
+											<img src="assets/img/banner13.jpeg" style="border-radius:10% 0% 10% 0%;" alt="">
+											<!-- <img src="assets/img/slider/slider-01.png" alt=""> -->
 										</div>
 									</div>
 									<div class="col-lg-6">
-										<div class="slider-five-two aos" data-aos="fade-down">
-											<img src="assets/img/slider/slider-02.png" alt="">
+										<div class="slider-five-two aos m-0 mt-0" data-aos="fade-down">
+											<img src="assets/img/banner12.jpg" style="border-radius:10% 0% 10% 0%; margin-left:50px; width:150%; height:auto;" alt="">
 										</div>
 									</div>
 								</div>
